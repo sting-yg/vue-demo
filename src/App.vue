@@ -10,6 +10,7 @@ import EventDemo6 from './components/EventDemo6.vue';
 import ArrayList from './components/ArrayList.vue';
 import ClassActive from './components/ClassActive.vue';
 import ModelDemo from './components/ModelDemo.vue';
+import RefDemo from './components/RefDemo.vue';
 
 
 
@@ -24,7 +25,8 @@ import ModelDemo from './components/ModelDemo.vue';
   <EventDemo4/>
   <EventDemo5/> 
   <EventDemo6/> 
-  <ArrayList/> -->
+  <ArrayList/> 
   <ClassActive/>
-  <ModelDemo/>
+  <ModelDemo/> -->
+  <RefDemo/>
 </template>
